@@ -28,6 +28,12 @@ Passionate about web development, problem-solving, and designing creative soluti
 
 ---
 
+## 🧠 HackerRank
+
+[![HackerRank SQL Badge](https://img.shields.io/badge/HackerRank-SQL%205%E2%AD%90-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/vechalapupranee1)
+
+---
+
 ### 📌 Featured Projects
 
 - *🚗 Vehicle Document Recognition* – AI-based web app for document verification   
